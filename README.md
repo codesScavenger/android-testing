@@ -78,7 +78,7 @@ This is __experimental__ feature. To run the tests, please install the latest ve
 
 ```
 # Clone the repository if you haven't.
-$ git clone https://github.com/google/android-testing
+$ git clone https://github.com/googlesamples/android-testing
 $ cd android-testing
 
 # Edit the path to your local SDK at the top of the WORKSPACE file
